@@ -31,6 +31,31 @@ La gestion des machines
 
 La gestion des salles
 
+
+
+
+
+
+Technologies Utilisées :
+
+
+•	Java
+•	MySQL (for the database)
+•	Hibernate (for the persistence layer)
+•	RMI (for client-server communication)
+
+les fonctionnalités implémentées:
+
+Créer un serveur RMI
+Définir des interfaces RMI
+Implémenter des classes serveur
+Configurer le serveur RMI
+Créer un client RMI
+Implémenter des fonctionnalités de gestion
+Gérer la communication distante
+Tester et débogue
+Documenter le code
+
 ![6](https://github.com/hasnahatti70/tprmi/assets/127605934/afc04929-7e02-4a6b-b5af-df968c320306)
 
 

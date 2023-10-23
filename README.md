@@ -68,5 +68,10 @@ Technologies Utilisées :
 •	RMI (for client-server communication)
 
 Les fonctionnalites implementees
+
+
+
+
+
 CRUD (Create, Read, Update, Delete) pour machine. CRUD operations pour salle
 

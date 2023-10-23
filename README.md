@@ -15,6 +15,9 @@ Menu
 
 La gestion des machines
 
+![7](https://github.com/hasnahatti70/tprmi/assets/127605934/5b08b63b-bae2-4420-8243-9228c8318dfb)
+
+
 
 ![5](https://github.com/hasnahatti70/tprmi/assets/127605934/0bac26c7-af99-4df3-a3f2-043aa7838264)
 

@@ -67,31 +67,6 @@ Technologies Utilisées :
 
 •	RMI (for client-server communication)
 
-les fonctionnalités implémentées:
-
-Créer un serveur RMI
-
-
-Définir des interfaces RMI
-
-
-Implémenter des classes serveur
-
-
-Configurer le serveur RMI
-
-Créer un client RMI
-
-
-Implémenter des fonctionnalités de gestion
-
-
-Gérer la communication distante
-
-
-Tester et débogue
-
-
-Documenter le code
-
+Les fonctionnalites implementees
+CRUD (Create, Read, Update, Delete) pour machine. CRUD operations pour salle
 

@@ -15,9 +15,10 @@ Menu
 
 La gestion des machines
 
-![7](https://github.com/hasnahatti70/tprmi/assets/127605934/5b08b63b-bae2-4420-8243-9228c8318dfb)
 
 
+
+![WhatsApp Image 2023-10-23 at 22 22 35](https://github.com/hasnahatti70/tprmi/assets/127605934/36e37653-3e96-43fe-a974-57919591d414)
 
 ![5](https://github.com/hasnahatti70/tprmi/assets/127605934/0bac26c7-af99-4df3-a3f2-043aa7838264)
 

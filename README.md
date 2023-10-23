@@ -20,6 +20,13 @@ La gestion des machines
 
 ![WhatsApp Image 2023-10-23 at 22 22 35](https://github.com/hasnahatti70/tprmi/assets/127605934/36e37653-3e96-43fe-a974-57919591d414)
 
+
+![WhatsApp Image 2023-10-23 at 22 20 59](https://github.com/hasnahatti70/tprmi/assets/127605934/fc389ddb-6a95-44d9-9092-bec8a6055d1a)
+
+
+![WhatsApp Image 2023-10-23 at 22 21 47](https://github.com/hasnahatti70/tprmi/assets/127605934/14778364-b449-41d8-9a23-d4358918838f)
+
+
 ![5](https://github.com/hasnahatti70/tprmi/assets/127605934/0bac26c7-af99-4df3-a3f2-043aa7838264)
 
 La gestion des salles

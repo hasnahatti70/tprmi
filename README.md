@@ -13,6 +13,8 @@ Menu
 ![4](https://github.com/hasnahatti70/tprmi/assets/127605934/b72f28d8-f9f5-4f15-b9ba-a53bae459765)
 
 La gestion des machines
+
+
 ![5](https://github.com/hasnahatti70/tprmi/assets/127605934/0bac26c7-af99-4df3-a3f2-043aa7838264)
 
 La gestion des salles
@@ -20,4 +22,5 @@ La gestion des salles
 ![6](https://github.com/hasnahatti70/tprmi/assets/127605934/afc04929-7e02-4a6b-b5af-df968c320306)
 
 
+cherche une salle
 ![7](https://github.com/hasnahatti70/tprmi/assets/127605934/46a9d3d7-601c-4d1c-931a-16c6f3a96285)

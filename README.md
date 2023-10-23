@@ -8,14 +8,14 @@ pour la gestion des salles et des machines à l'aide d'un serveur RMI et d'un cl
 Menu
 
 ![2](https://github.com/hasnahatti70/tprmi/assets/127605934/5cc40069-f7c5-4220-8a7c-9256b0763a48)
-LES INTERFACES
+
 ![3](https://github.com/hasnahatti70/tprmi/assets/127605934/07686bf1-3799-46b7-b311-8b6107f30a9d)
 ![4](https://github.com/hasnahatti70/tprmi/assets/127605934/b72f28d8-f9f5-4f15-b9ba-a53bae459765)
 
-
+La gestion des machines
 ![5](https://github.com/hasnahatti70/tprmi/assets/127605934/0bac26c7-af99-4df3-a3f2-043aa7838264)
 
-La gestion du machines
+La gestion des salles
 
 ![6](https://github.com/hasnahatti70/tprmi/assets/127605934/afc04929-7e02-4a6b-b5af-df968c320306)
 

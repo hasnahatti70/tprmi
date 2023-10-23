@@ -13,3 +13,6 @@ Menu
 
 
 ![5](https://github.com/hasnahatti70/tprmi/assets/127605934/0bac26c7-af99-4df3-a3f2-043aa7838264)
+
+
+![6](https://github.com/hasnahatti70/tprmi/assets/127605934/afc04929-7e02-4a6b-b5af-df968c320306)

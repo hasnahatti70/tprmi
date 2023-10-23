@@ -57,20 +57,41 @@ Technologies Utilisées :
 
 
 •	Java
+
+
 •	MySQL (for the database)
+
+
 •	Hibernate (for the persistence layer)
+
+
 •	RMI (for client-server communication)
 
 les fonctionnalités implémentées:
 
 Créer un serveur RMI
+
+
 Définir des interfaces RMI
+
+
 Implémenter des classes serveur
+
+
 Configurer le serveur RMI
+
 Créer un client RMI
+
+
 Implémenter des fonctionnalités de gestion
+
+
 Gérer la communication distante
+
+
 Tester et débogue
+
+
 Documenter le code
 
 

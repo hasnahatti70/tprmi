@@ -16,3 +16,6 @@ Menu
 
 
 ![6](https://github.com/hasnahatti70/tprmi/assets/127605934/afc04929-7e02-4a6b-b5af-df968c320306)
+
+
+![7](https://github.com/hasnahatti70/tprmi/assets/127605934/46a9d3d7-601c-4d1c-931a-16c6f3a96285)

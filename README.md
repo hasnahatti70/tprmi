@@ -32,7 +32,11 @@ La gestion des machines
 La gestion des salles
 
 
+![6](https://github.com/hasnahatti70/tprmi/assets/127605934/afc04929-7e02-4a6b-b5af-df968c320306)
 
+
+cherche une salle
+![7](https://github.com/hasnahatti70/tprmi/assets/127605934/5b08b63b-bae2-4420-8243-9228c8318dfb)
 
 
 
@@ -55,10 +59,4 @@ Implémenter des fonctionnalités de gestion
 Gérer la communication distante
 Tester et débogue
 Documenter le code
-
-![6](https://github.com/hasnahatti70/tprmi/assets/127605934/afc04929-7e02-4a6b-b5af-df968c320306)
-
-
-cherche une salle
-![7](https://github.com/hasnahatti70/tprmi/assets/127605934/5b08b63b-bae2-4420-8243-9228c8318dfb)
 
